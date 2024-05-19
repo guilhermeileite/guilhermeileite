@@ -11,3 +11,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeileite&repo=EBAC_Modulo17&theme=dark)](https://github.com/guilhermeileite/EBAC_Modulo17) 
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeileite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
