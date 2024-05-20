@@ -12,6 +12,8 @@ Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeileite&repo=Testes_Mobile_Appium&theme=dark)](https://github.com/guilhermeileite/Testes_Mobile_Appium) 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeileite&repo=TesteE2E_lojavirtual&theme=dark)](https://github.com/guilhermeileite/TesteE2E_lojavirtual) 
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeileite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
