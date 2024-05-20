@@ -24,7 +24,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeileite&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeileite&layout=compact)
 
 ### Contatos
 
