@@ -14,6 +14,8 @@ Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeileite&repo=TesteE2E_lojavirtual&theme=dark)](https://github.com/guilhermeileite/TesteE2E_lojavirtual) 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeileite&repo=TesteE2E_Cypress&theme=dark)](https://github.com/guilhermeileite/TesteE2E_Cypress)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeileite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
