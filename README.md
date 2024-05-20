@@ -6,7 +6,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeileite&show_icons=true&theme=dark)](https://github.com/guilhermeileite/github-readme-stats)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeileite&show_icons=true&theme=radical)
 
 ### Projetos
 
