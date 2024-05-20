@@ -18,6 +18,8 @@ Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeileite&repo=TestePerformance_Jmeter&theme=dark)](https://github.com/guilhermeileite/TestePerformance_Jmeter)
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/guilhermekleite/notebookd973848905/)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeileite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
