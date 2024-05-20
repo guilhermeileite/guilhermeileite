@@ -10,7 +10,7 @@ Graduado em Ciência da Computação, atualmente me especializando em Qualidade 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeileite&repo=EBAC_Modulo17&theme=dark)](https://github.com/guilhermeileite/Testes_Mobile_Appium) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermeileite&repo=Testes_Mobile_Appium&theme=dark)](https://github.com/guilhermeileite/Testes_Mobile_Appium) 
 
 ### Linguagens utilizadas
 
