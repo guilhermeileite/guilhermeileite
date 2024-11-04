@@ -2,7 +2,7 @@
 
 
 ###### Sobre o Guilherme
-Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando em Qualidade de Software (QA), com projetos desenvolvidos em testes manuais, testes automatizados, testes de performance, testes mobile e outros.
+Graduado em Análise e Desenvolvimento de Sistemas e Ciência da Computação, atualmente me especializando em Ciência de Dados, com projetos desenvolvidos em Python, Java, PowerBI e Machine Learning.
 
 ### Detalhes
 
