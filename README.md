@@ -2,7 +2,7 @@
 
 
 ###### Sobre o Guilherme
-Graduado em Análise e Desenvolvimento de Sistemas e Ciência da Computação, atualmente me especializando em Ciência de Dados, com projetos desenvolvidos em Python, Java, PowerBI e Machine Learning.
+Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando em Análise de Dados, com projetos desenvolvidos em Python, Java e Machine Learning.
 
 ### Detalhes
 
