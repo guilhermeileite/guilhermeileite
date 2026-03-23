@@ -2,7 +2,7 @@
 
 
 ###### Sobre o Guilherme
-Graduado em Análise e Desenvolvimento de Sistemas, atualmente me especializando em Análise de Dados, com projetos desenvolvidos no Excel, em Python, Java e SQL.
+Graduado em Análise e Desenvolvimento de Sistemas, desenvolvedor Java.
 
 ### Detalhes
 
